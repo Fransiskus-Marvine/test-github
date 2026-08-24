@@ -1,3 +1,3 @@
 void main(){
-    print("test github");
+    print("berhasil test github");
 }
